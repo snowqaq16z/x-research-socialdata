@@ -387,14 +387,16 @@ async function cmdList() {
 async function cmdMonitor() {
   const listId = args[1];
   if (!listId) {
-    console.error("Usage: x-research.ts monitor <list_id> [--interval seconds]");
+    console.error("Usage: x-research.ts monitor <list_id> [--interval seconds] [--channel id]");
     process.exit(1);
   }
 
   const interval = parseInt(getOpt("interval") || "25") * 1000;
+  const channelId = getOpt("channel");
   let lastSeenId: string | null = null;
 
   console.log(`Starting monitor for List ${listId} (Interval: ${interval / 1000}s)`);
+  if (channelId) console.log(`Pushing to channel: ${channelId}`);
 
   while (true) {
     try {
@@ -406,8 +408,16 @@ async function cmdMonitor() {
 
         if (newTweets.length > 0) {
           for (const t of newTweets.reverse()) {
-            console.log(fmt.formatTweetTelegram(t));
+            const output = fmt.formatTweetTelegram(t);
+            console.log(output);
             console.log();
+            
+            if (channelId) {
+              // Call openclaw message via exec
+              const msg = output.replace(/"/g, '\\"');
+              const cmd = `openclaw message send --target "${channelId}" --message "${msg}"`;
+              require("child_process").execSync(cmd);
+            }
           }
           lastSeenId = tweets[0].id;
         }
