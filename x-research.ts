@@ -363,6 +363,27 @@ Search options:
   --markdown                 Markdown output`);
 }
 
+async function cmdList() {
+  const listId = args[1];
+  if (!listId) {
+    console.error("Usage: x-research.ts list <list_id>");
+    process.exit(1);
+  }
+
+  const asJson = getFlag("json");
+  const tweets = await api.getListTweets(listId);
+
+  if (asJson) {
+    console.log(JSON.stringify(tweets, null, 2));
+  } else {
+    console.log(`List ${listId} (${tweets.length} tweets)\n`);
+    for (const t of tweets.slice(0, 15)) {
+      console.log(fmt.formatTweetTelegram(t));
+      console.log();
+    }
+  }
+}
+
 // --- Main ---
 
 async function main() {
@@ -370,6 +391,10 @@ async function main() {
     case "search":
     case "s":
       await cmdSearch();
+      break;
+    case "list":
+    case "l":
+      await cmdList();
       break;
     case "thread":
     case "t":

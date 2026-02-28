@@ -10,6 +10,7 @@ A modified version of x-research-skill that uses SocialData API for data fetchin
 ## Commands
 - `search <query>`: Search top tweets
 - `profile <username>`: Get user profile and latest tweets
+- `list <list_id>`: Get tweets from a specific Twitter List
 - `tweet <id>`: Get specific tweet details
 
 ## Config

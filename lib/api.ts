@@ -139,6 +139,17 @@ export async function getTweet(tweetId: string): Promise<Tweet | null> {
   return tweets[0] || null;
 }
 
+/**
+ * Fetch tweets from a specific Twitter List.
+ */
+export async function getListTweets(
+  listId: string,
+  opts: { count?: number } = {}
+): Promise<Tweet[]> {
+  const result = await socialDataExec(`/list/${listId}/tweets`, {});
+  return parseTweets(result);
+}
+
 export function sortBy(
   tweets: Tweet[],
   metric: "likes" | "impressions" | "retweets" | "replies" = "likes"
