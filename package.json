@@ -1,0 +1,15 @@
+{
+  "name": "x-research-socialdata",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "process": "^0.11.10"
+  }
+}

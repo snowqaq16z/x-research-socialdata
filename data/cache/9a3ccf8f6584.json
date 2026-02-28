@@ -1,0 +1,448 @@
+{
+  "query": "bitcoin -is:retweet",
+  "params": "sort=likes&pages=1&since=7d",
+  "timestamp": 1772265788969,
+  "data": [
+    {
+      "id": "2027655150479814944",
+      "text": "BIG: Bitcoin Hashrate rebounds in a V-shape. https://t.co/m38aUFdBKG",
+      "author_id": "866584477",
+      "username": "AaronMTrader",
+      "name": "Aaron McClain",
+      "created_at": "2026-02-28T08:00:34.000000Z",
+      "conversation_id": "2027655150479814944",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 3,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/AaronMTrader/status/2027655150479814944"
+    },
+    {
+      "id": "2027655055474675954",
+      "text": "#computerart #creativecoding #generativeart :\n#bitcoin #blockchain \nLAST Block, Height : 938688\n[ See more on https://t.co/p7nE81m7aK ] https://t.co/26mWiR1dxN",
+      "author_id": "840479603143630849",
+      "username": "r_topisto",
+      "name": "R. Topisto",
+      "created_at": "2026-02-28T08:00:11.000000Z",
+      "conversation_id": "2027655055474675954",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 6,
+        "bookmarks": 0
+      },
+      "urls": [
+        "http://www.topisto.net"
+      ],
+      "mentions": [],
+      "hashtags": [
+        "computerart",
+        "creativecoding",
+        "generativeart",
+        "bitcoin",
+        "blockchain"
+      ],
+      "tweet_url": "https://x.com/r_topisto/status/2027655055474675954"
+    },
+    {
+      "id": "2027651746277769408",
+      "text": "btcs say shit like this n cant even use the correct youre🤦🏽‍♀️ https://t.co/IU6y5OnIxY",
+      "author_id": "1946019511368339456",
+      "username": "ibleedpretty",
+      "name": "𝔯𝔦 || shedtwt",
+      "created_at": "2026-02-28T07:47:02.000000Z",
+      "conversation_id": "2027651746277769408",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 7,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/ibleedpretty/status/2027651746277769408"
+    },
+    {
+      "id": "2027639326960738420",
+      "text": "38250$ (SOL) among the first 500 Retweets.\n   \nRetweet;\nFollow me!\nLet's go!🚀- https://t.co/1hDVVWzz6h\n\nDrop your $SOL wallet address https://t.co/NWfZf20q2l",
+      "author_id": "3026497690",
+      "username": "biswap_coin",
+      "name": "Bitcoin Community 🏆",
+      "created_at": "2026-02-28T06:57:41.000000Z",
+      "conversation_id": "2027639326960738420",
+      "metrics": {
+        "likes": 27,
+        "retweets": 24,
+        "replies": 23,
+        "quotes": 1,
+        "impressions": 546,
+        "bookmarks": 2
+      },
+      "urls": [
+        "https://chat.whatsapp.com/EjF6jZCeI5T02qzd5ipqJs"
+      ],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/biswap_coin/status/2027639326960738420"
+    },
+    {
+      "id": "2027654579974758734",
+      "text": "Entry CA&gt;&lt;\n\n2RZvbgC7eJa9ZPqEceetaaxQi8ZQkh33imWbUWB2pump\n\n#solana #memecoin #degen #cryptotrading #Bitcoin #usak #Australiatrader #LoveIslandUK https://t.co/Zd99rh9h4l",
+      "author_id": "1884326614915506180",
+      "username": "CallerD111",
+      "name": "Caller D111",
+      "created_at": "2026-02-28T07:58:18.000000Z",
+      "conversation_id": "2027654579974758734",
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 1,
+        "impressions": 22,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "solana",
+        "memecoin",
+        "degen",
+        "cryptotrading",
+        "Bitcoin",
+        "usak",
+        "Australiatrader",
+        "LoveIslandUK"
+      ],
+      "tweet_url": "https://x.com/CallerD111/status/2027654579974758734"
+    },
+    {
+      "id": "2027646361374445633",
+      "text": "Gm.\n\nNice upside RR with clear invalidation here for $BTC https://t.co/Ug9hpxPGhu",
+      "author_id": "966398434499596288",
+      "username": "m00pser",
+      "name": "Moops",
+      "created_at": "2026-02-28T07:25:39.000000Z",
+      "conversation_id": "2027646361374445633",
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "impressions": 15,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/m00pser/status/2027646361374445633"
+    },
+    {
+      "id": "2027634902309462054",
+      "text": "JUST IN: Bitcoin crashes below $65,000 after Israel launches strikes on Iran. \n\n$175,000,000 worth of leveraged crypto positions have been liquidated from the crypto market in the past 30 minutes. https://t.co/Z7UZ0GrT0s",
+      "author_id": "1940935795759849472",
+      "username": "BitcoinJunkies",
+      "name": "Bitcoin Junkies",
+      "created_at": "2026-02-28T06:40:07.000000Z",
+      "conversation_id": "2027634902309462054",
+      "metrics": {
+        "likes": 214,
+        "retweets": 41,
+        "replies": 36,
+        "quotes": 10,
+        "impressions": 21475,
+        "bookmarks": 14
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/BitcoinJunkies/status/2027634902309462054"
+    },
+    {
+      "id": "2027654982443454614",
+      "text": "The price of Bitcoin has dropped by more than 40% in the past six months. 📈\n\nDo you believe we will see a comeback?",
+      "author_id": "724839879478247425",
+      "username": "the5erstrading",
+      "name": "The5ers",
+      "created_at": "2026-02-28T07:59:54.000000Z",
+      "conversation_id": "2027654982443454614",
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "impressions": 85,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/the5erstrading/status/2027654982443454614"
+    },
+    {
+      "id": "2027654117292642577",
+      "text": "I've been around long enough to notice a recurring issue in this space.\n\nBitcoin stands out as our strongest asset. \n\nIt boasts the most secure network and serves as the bedrock of everything we do.\n\nYet a lot of BTC just sits idle.\n\nTrillions of dollars are locked away in cold storage, doing absolutely nothing while opportunities slip by in other ecosystems every single day.\n\nThat’s the gap and it’s exactly what @beyond__tech aims to bridge.\n\nBeyond isn’t here to replace Bitcoin, they’re here to unlock its potential.\n\nThey’re creating real interoperability that enables BTC and Bitcoin native assets like BRC20 Runes and Taproot assets to connect with over 70 ecosystems. \n\nThis means liquidity won’t be stuck anymore. \n\nIt means capital can be put to work instead of sitting around. \n\nIt means you can maintain your Bitcoin exposure while tapping into a wider range of onchain opportunities.\n\nJust think about the impact of that.\n\nBitcoin transforms from being passive.\n\nLiquidity becomes a driving force.\nDisconnected ecosystems start to link up.\n\nCapital efficiency gets a boost for everyone involved.\n\nAt the heart of this is $BYD.\n\n$BYD secures the network through staking.\n\n$BYD governs upgrades and the direction of the protocol.\n\n$BYD captures value from real bridge activity.\n\nThis is a fixed supply that aligns with genuine usage, not just empty emissions.\n\nWhat I find most appealing is that this addresses a problem we all experience idle capital, limited interoperability and the frustration of watching opportunities slip away because moving assets feels risky or inefficient.\n\nBeyond is laying down the infrastructure that turns Bitcoin from static digital gold into a dynamic economic powerhouse.\n\nThis is the kind of innovation that propels the space forward. \n\nNot just noise or fleeting hype, but real utility. \n\nDisclaimer:\n\nThis is not a paid promotion. \n\nI'm sharing my personal research and beliefs and I might receive rewards later just being transparent!",
+      "author_id": "1377257802767462408",
+      "username": "supertyer",
+      "name": "Tyer 🏴‍☠️",
+      "created_at": "2026-02-28T07:56:28.000000Z",
+      "conversation_id": "2027654117292642577",
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "impressions": 39,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "beyond__tech"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/supertyer/status/2027654117292642577"
+    },
+    {
+      "id": "2027650405333705206",
+      "text": "🚨 $BTC smashed another short setup! 🔥🔥\n\n#BTC #Bitcoin #bearish #short https://t.co/Q8817bXhqf",
+      "author_id": "1819580383123722242",
+      "username": "thecapmindset",
+      "name": "The Capital Mindset",
+      "created_at": "2026-02-28T07:41:43.000000Z",
+      "conversation_id": "2027650405333705206",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 38,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "BTC",
+        "Bitcoin",
+        "bearish",
+        "short"
+      ],
+      "tweet_url": "https://x.com/thecapmindset/status/2027650405333705206"
+    },
+    {
+      "id": "2027647348181029337",
+      "text": "Ricco tweeted smth opensource related and @bretep has not rushed in to bull repost? Someone check on him. #PulseChain (most honest man in crypto 🫠 - we trusted your take on it and look where you got us - rekt and broke possibly worse) https://t.co/2sdjJb2dxO",
+      "author_id": "1608889894671187968",
+      "username": "sheikhhexican",
+      "name": "Genius Ritard",
+      "created_at": "2026-02-28T07:29:34.000000Z",
+      "conversation_id": "2027647348181029337",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 10,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [
+        "bretep"
+      ],
+      "hashtags": [
+        "PulseChain"
+      ],
+      "tweet_url": "https://x.com/sheikhhexican/status/2027647348181029337"
+    },
+    {
+      "id": "2027468819363414492",
+      "text": "Giving away 0.2 $BTC to a random person!\n\nAs promised, I’m sending 0.2 BTC (~$13,200) to one lucky follower.\n\nLike, retweet and comment 'Done' to enter.\n\n* If you’re not following, you will be disqualified.\n\nWinner announced in 24h! \n\nGood luck everyone! https://t.co/Q6w88PQ5o7",
+      "author_id": "1477731968376782850",
+      "username": "Bitcoinprof0637",
+      "name": "Bitcoin professor",
+      "created_at": "2026-02-27T19:40:09.000000Z",
+      "conversation_id": "2027468819363414492",
+      "metrics": {
+        "likes": 609,
+        "retweets": 438,
+        "replies": 538,
+        "quotes": 16,
+        "impressions": 40092,
+        "bookmarks": 30
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Bitcoinprof0637/status/2027468819363414492"
+    },
+    {
+      "id": "2027651323995558280",
+      "text": "RT 이렇게 뜨는건 뭔가요 ?? https://t.co/pJ1UQtUnSU",
+      "author_id": "1465309872657166349",
+      "username": "bitcoinvaccine",
+      "name": "bitcoin⚡️vaccine💉",
+      "created_at": "2026-02-28T07:45:22.000000Z",
+      "conversation_id": "2027651323995558280",
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 137,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/bitcoinvaccine/status/2027651323995558280"
+    },
+    {
+      "id": "2025525128931471432",
+      "text": "Retweeting every $KIMCHI ON #Ethereum post\n\n0xfCCD6fBCa272B4cc11069402F4123b070B7838F9 https://t.co/iCStTl6KJO",
+      "author_id": "1860587577171980288",
+      "username": "Panicsold_CTO",
+      "name": "crypto enthusiast🫡🫡🫡",
+      "created_at": "2026-02-22T10:56:37.000000Z",
+      "conversation_id": "2025525128931471432",
+      "metrics": {
+        "likes": 16,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 419,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Ethereum"
+      ],
+      "tweet_url": "https://x.com/Panicsold_CTO/status/2025525128931471432"
+    },
+    {
+      "id": "2026072887745011919",
+      "text": "Dear X algorithm,Push this to verified accounts who want growth.....\n\nLike 👍 Repost 🔁 Comment 💬\n\nFollowing back active &amp; verified profiles first 💎 https://t.co/64IfGhrnMC",
+      "author_id": "1611089547013545984",
+      "username": "BustyHumor",
+      "name": "Eben loves X",
+      "created_at": "2026-02-23T23:13:13.000000Z",
+      "conversation_id": "2026072887745011919",
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "impressions": 126,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/BustyHumor/status/2026072887745011919"
+    },
+    {
+      "id": "2027648024797937743",
+      "text": "まぁ、もう少し下げてきっとリバる！\n買い場だと思う。\nきっと通り雨ぐらいなもんさ。\n #ビットコイン\n#メタプラネット https://t.co/wKdLknIrwR",
+      "author_id": "1543602276022906880",
+      "username": "R92704053",
+      "name": "バズル・ライトイヤー",
+      "created_at": "2026-02-28T07:32:15.000000Z",
+      "conversation_id": "2027648024797937743",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 40,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "ビットコイン",
+        "メタプラネット"
+      ],
+      "tweet_url": "https://x.com/R92704053/status/2027648024797937743"
+    },
+    {
+      "id": "2027652590389916107",
+      "text": "AirBubbleVIII🍷From #Warsaw With Love❤️#Bitcoin #VibeCoding $BTC https://t.co/ytGqs7eDj6",
+      "author_id": "1400891949238861826",
+      "username": "CEdwardsJD1",
+      "name": "Gu𝕊🍷",
+      "created_at": "2026-02-28T07:50:24.000000Z",
+      "conversation_id": "2027652590389916107",
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "impressions": 15,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [
+        "Warsaw",
+        "Bitcoin",
+        "VibeCoding"
+      ],
+      "tweet_url": "https://x.com/CEdwardsJD1/status/2027652590389916107"
+    },
+    {
+      "id": "2027647960377360634",
+      "text": "IF BITCOIN FOLLOWS SILVER,\n\nBTC IS GOING TO $400,000 IN 2026.\n\nIT'S COMING 🚀 https://t.co/KLqjdZzMNB",
+      "author_id": "1605310254085980161",
+      "username": "Bitcoin_Teddy",
+      "name": "Bitcoin Teddy",
+      "created_at": "2026-02-28T07:32:00.000000Z",
+      "conversation_id": "2027647960377360634",
+      "metrics": {
+        "likes": 15,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 2,
+        "impressions": 909,
+        "bookmarks": 0
+      },
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "tweet_url": "https://x.com/Bitcoin_Teddy/status/2027647960377360634"
+    },
+    {
+      "id": "2026384955111018665",
+      "text": "@arescoins @1CryptoPsycho1 I  retweeted too\n\n5mKSVVU1PT7Ntq2bRmU7QdwNSju86GscxbDjr3Y38C1E https://t.co/HKuwDaBj2q",
+      "author_id": "1637593081179672577",
+      "username": "heistoba",
+      "name": "obasol",
+      "created_at": "2026-02-24T19:53:16.000000Z",
+      "conversation_id": "2026380293104398499",
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 3,
+        "impressions": 51,
+        "bookmarks": 1
+      },
+      "urls": [],
+      "mentions": [
+        "arescoins",
+        "1CryptoPsycho1"
+      ],
+      "hashtags": [],
+      "tweet_url": "https://x.com/heistoba/status/2026384955111018665"
+    }
+  ]
+}
