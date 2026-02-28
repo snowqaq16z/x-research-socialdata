@@ -384,6 +384,41 @@ async function cmdList() {
   }
 }
 
+async function cmdMonitor() {
+  const listId = args[1];
+  if (!listId) {
+    console.error("Usage: x-research.ts monitor <list_id> [--interval seconds]");
+    process.exit(1);
+  }
+
+  const interval = parseInt(getOpt("interval") || "25") * 1000;
+  let lastSeenId: string | null = null;
+
+  console.log(`Starting monitor for List ${listId} (Interval: ${interval / 1000}s)`);
+
+  while (true) {
+    try {
+      const tweets = await api.getListTweets(listId);
+      if (tweets.length > 0) {
+        const newTweets = lastSeenId 
+          ? tweets.filter(t => BigInt(t.id) > BigInt(lastSeenId!))
+          : [tweets[0]]; // Initial run, show newest
+
+        if (newTweets.length > 0) {
+          for (const t of newTweets.reverse()) {
+            console.log(fmt.formatTweetTelegram(t));
+            console.log();
+          }
+          lastSeenId = tweets[0].id;
+        }
+      }
+    } catch (e: any) {
+      console.error(`Monitor error: ${e.message}`);
+    }
+    await new Promise(r => setTimeout(r, interval));
+  }
+}
+
 // --- Main ---
 
 async function main() {
@@ -395,6 +430,10 @@ async function main() {
     case "list":
     case "l":
       await cmdList();
+      break;
+    case "monitor":
+    case "m":
+      await cmdMonitor();
       break;
     case "thread":
     case "t":
